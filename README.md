@@ -1,7 +1,7 @@
 # Phising-mail
 Tool này nhằm học tập tội sẽ không chịu tránh nhiệm 
 
-liên hệ sửa lỗi qua @seraphin902
+liên hệ mẹ bạn béo qua @seraphin902
 
 code full
 
