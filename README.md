@@ -1,6 +1,7 @@
 # Phising-mail
 Tool auto phising beta
 Tool này nhằm học tập tội sẽ không chịu tránh nhiệm 
+liên hệ sửa lỗi qua @seraphin902
 
 # 🧰 1. Chức năng chính
 
